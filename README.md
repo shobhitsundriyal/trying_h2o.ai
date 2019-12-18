@@ -1,1 +1,1 @@
-# trying_h2o.ai
+# Learning h2o.ai
